@@ -3,8 +3,8 @@ import requests
 import json
 
 # Define your FedEx API credentials
-CLIENT_ID = "l714923fcbed2b4add907f35c2c8930676"
-CLIENT_SECRET = "de39806838e64e1fabd36a7e0737b5e0"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 
 # Function to obtain the bearer access token
